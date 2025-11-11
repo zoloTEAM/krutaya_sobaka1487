@@ -1,0 +1,22 @@
+.выделение {
+	color: blueviolet;
+	font-weight: bold;
+}
+
+body {
+	background: lightblue;
+	color: white;
+}
+h1{
+  font-family: "Hachi Maru Pop", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.список {
+background: rgb(227, 237, 240);
+}
+
+.done {
+  color: darkseagreen;
+  text-decoration: line-through solid black 2px;
+}
